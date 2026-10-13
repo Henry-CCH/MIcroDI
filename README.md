@@ -12,7 +12,7 @@ Version 1.0 : You __can't use midi that with more than 1 notes playing together_
 
 ## License and copyright
 Those file are part of MIcroDI. 
-Licensed under the Apache License, Version 2.0 (the "License"); 
+Licensed under the MIT License (the "License"); 
 
 ## Talking History (Stopped updating)
 ###### ChatGPT(3.5) https://docs.google.com/document/d/148SHspltgq60Hb4H0fTkYth-zy6z5wat/edit?usp=drive_link&ouid=103731793910767477402&rtpof=true&sd=true
